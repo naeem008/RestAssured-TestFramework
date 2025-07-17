@@ -71,8 +71,6 @@ public class User {
 		return userStatus;
 	}
 
-	public void setUserStatus(int userStatus) {
-		this.userStatus = userStatus;
-	}
+
 
 }
